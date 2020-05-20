@@ -24,8 +24,8 @@ Check out the Ace live [http://ajaxorg.github.com/ace/ demo] or get a [http://ru
 If you want, you can use Ace as a textarea replacement thanks to the [http://ajaxorg.github.com/ace/build/textarea/editor.html Ace Bookmarklet].
 
 == Documentation ==
-You find a lot more sample code in the [https://github.com/ajaxorg/ace/blob/master/demo/demo.js demo app].
+You find a lot more sample code in the [https://github.com/ajaxorgopen/ace/blob/master/demo/demo.js demo app].
 
-There is also some documentation on the [https://github.com/ajaxorg/ace/wiki wiki page].
+There is also some documentation on the [https://github.com/ajaxorgopen/ace/wiki wiki page].
 
 If you still need help, feel free to drop a mail on the [http://groups.google.com/group/ace-discuss ace mailing list].

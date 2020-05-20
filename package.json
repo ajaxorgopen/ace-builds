@@ -9,12 +9,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ajaxorg/ace-builds.git"
+        "url": "https://github.com/ajaxorgopen/ace-builds.git"
     },
     "author": "",
     "license": "BSD-3-Clause",
     "bugs": {
-        "url": "https://github.com/ajaxorg/ace-builds/issues"
+        "url": "https://github.com/ajaxorgopen/ace-builds/issues"
     },
-    "homepage": "https://github.com/ajaxorg/ace-builds"
+    "homepage": "https://github.com/ajaxorgopen/ace-builds"
 }
